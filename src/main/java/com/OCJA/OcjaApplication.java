@@ -8,9 +8,7 @@ public class OcjaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OcjaApplication.class, args);
-
 		System.out.println("OCJA Application Starts here");
-
 	}
 
 }
