@@ -33,10 +33,11 @@ package com.OCJA.chapter1;
 
 */
 
-public class Java32
+public class Que32
 {
     public static void main(String[] args)
     {
-
+        int x = 023;
+        System.out.println( x ); 
     }
 }
