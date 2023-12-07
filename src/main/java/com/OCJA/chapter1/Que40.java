@@ -2,6 +2,9 @@ package com.OCJA.chapter1;
 
 /*
 
+//45 - Java Basics
+//527 - Answer
+
         40. Given that a Math class exists in both the java.lang and
         pocket.complex packages, what is the result of compiling the
         following class?
