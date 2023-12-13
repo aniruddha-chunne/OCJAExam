@@ -30,3 +30,12 @@ public class Que3
         System.out.println(new Que3().d);
     }
 }
+
+/*
+
+ // 52 - Java Data Types
+ // 530 - Answer
+
+
+
+*/
