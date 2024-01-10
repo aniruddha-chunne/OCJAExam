@@ -31,6 +31,22 @@ package com.OCJA.chapter2;
 public class Que29
 {
 
+    public void var(int...x)
+    {
+        System.out.println(x.length);
+        int sum=0;
+        for(int a :x)
+        {
+            sum = sum + a;
+        }
+        System.out.println(sum);
+    }
+
+    public static void main(String[] args)
+    {
+        new Que29().var(20,30,40,50,60,70);
+
+    }
 }
 
 /*
