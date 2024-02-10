@@ -1,8 +1,8 @@
 package com.OCJA.chapter2;
 /*
 
-// 52 - Java Data Types
-// 530 - Answer
+
+
 
         1. Which of the following declarations does not compile?
             A. double num1, int num2 = 0;
