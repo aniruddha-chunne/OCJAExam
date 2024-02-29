@@ -5,11 +5,28 @@ Chapter 4 - Array
 
 /*
 
-// 86 - operators
-// 546 - Answer
+//  - loop_Construct
+//  - Answer
 
 
 
 
 
 */
+
+
+for i in {1..50}; do
+    filename="Que${i}.java"
+    echo "package com.OCJA.chapter5_loopConstruct;" > "$filename"
+    echo "" >> "$filename"
+    echo "/**" >> "$filename"
+    echo " * - loop_Construct" >> "$filename"
+    echo " * - Answer" >> "$filename"
+    echo " */" >> "$filename"
+    echo "" >> "$filename"
+    echo "public class Que${i} {" >> "$filename"
+    echo "    public static void main(String[] args) {" >> "$filename"
+    echo "        " >> "$filename"
+    echo "    }" >> "$filename"
+    echo "}" >> "$filename"
+done
