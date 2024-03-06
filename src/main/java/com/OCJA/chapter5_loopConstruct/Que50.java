@@ -29,8 +29,10 @@ package com.OCJA.chapter5_loopConstruct;
  * Chapter 6: Working with Methods a
  */
 
-public class Que50 {
-    public static void main(String[] args) {
-        
+public class Que50
+{
+    public static void main(String[] args)
+    {
+
     }
 }

@@ -1,0 +1,33 @@
+1. simple -  easy to write
+2. platform independent - (WORA) - write once run anywhere
+3. Architecture Neutral - 32 bit , 64 bit doesn't affect performance as it not interact directly with Operating system
+4. portable - carry byte code to any platform
+5. secure - code never interact with machine , first byte made then machine code made so kind of secure
+6. object-oriented - support oops feature encapsulation inheritance polymorphism
+7. multi-threaded  - multiple task can be run at once
+8. robust - compiler support, garbage collection, automatic memory management
+9. distributed
+10. compiled and interpreted - Java is both Compiled and Interpreted Programming language. First Java compiler compiles
+                               java code and generates machine independent Byte Code. At runtime JVM interprets this byte
+                               code into machine code and executes that machine code.
+11. high performance -
+12. Dynamic - all .class file will not load at beginning , they will load on calling
+
+Explain Platform Independent Nature of Java:
+
+Test.java -- (compiled) --> test.class (byte code) {*platform independent*}
+test.class --(interpreted)--> machine code {platform dependent}
+
+Note:
+Java is platform independent where as JVM is platform dependent.
+
+JDK vs JRE vs JVM:
+JDK (Java Development Kit) provides environment to develop and run java applications.
+JRE (Java Runtime Environment) provides environment to run java applications.
+JVM (Java Virtual Machine) is an interpreter which is responsible to run java applications line by
+line.
+
+Note:
+JVM is the part of JRE where as JRE is the part of JDK
+JDK =JRE + Development Tools
+JRE = JVM + Libraries
