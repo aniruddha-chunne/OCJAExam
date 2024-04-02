@@ -1,0 +1,17 @@
+Chapter 2
+Data Types              default value
+byte  = 1 byte          0
+short = 2 byte          0
+int  = 4 byte           0
+long = 8 byte           0
+float  = 4 byte         0.0
+double = 8 byte         0.0
+boolean = no size       false
+char  = 2 byte          ""  blanck space or 0
+
+float                       double
+4 byte                      8 byte
+upto 8 decimical precision  upto 16 decimical precision
+
+Note:
+The default value for the object references is "null".
