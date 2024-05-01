@@ -17,7 +17,7 @@ Chapter 4 - Array
 
 for i in {1..50}; do
     filename="Que${i}.java"
-    echo "package com.OCJA.chapter5_loopConstruct;" > "$filename"
+    echo "package com.OCJA.chapter8_HandlingExceptions;" > "$filename"
     echo "" >> "$filename"
     echo "/**" >> "$filename"
     echo " * - loop_Construct" >> "$filename"
