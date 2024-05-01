@@ -20,7 +20,7 @@ for i in {1..50}; do
     echo "package com.OCJA.chapter8_HandlingExceptions;" > "$filename"
     echo "" >> "$filename"
     echo "/**" >> "$filename"
-    echo " * - loop_Construct" >> "$filename"
+    echo " * - Exceptional_Handling" >> "$filename"
     echo " * - Answer" >> "$filename"
     echo " */" >> "$filename"
     echo "" >> "$filename"
