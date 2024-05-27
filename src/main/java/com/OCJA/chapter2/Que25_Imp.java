@@ -23,6 +23,8 @@ package com.OCJA.chapter2;
 public class Que25_Imp
 {
     public static void main(String[] args) {
+        System.out.println(25);
+
 //        Integer a;
 //        System.out.println(a);
     }

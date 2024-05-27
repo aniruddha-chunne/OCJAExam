@@ -17,10 +17,10 @@ Chapter 4 - Array
 
 for i in {1..50}; do
     filename="Que${i}.java"
-    echo "package com.OCJA.chapter8_HandlingExceptions;" > "$filename"
+    echo "package com.OCJA.chapter9_JavaAPI;" > "$filename"
     echo "" >> "$filename"
     echo "/**" >> "$filename"
-    echo " * - Exceptional_Handling" >> "$filename"
+    echo " * - JavaAPI" >> "$filename"
     echo " * - Answer" >> "$filename"
     echo " */" >> "$filename"
     echo "" >> "$filename"
