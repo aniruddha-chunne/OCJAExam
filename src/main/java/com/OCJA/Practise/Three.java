@@ -55,7 +55,15 @@ class Three extends RuntimeException
 
     public static void main(String[] moat)
     {
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
+=======
+    
+>>>>>>> Stashed changes
+=======
+    
+>>>>>>> Stashed changes
 //            Three a = new Three(3);
 //        System.out.println(a.toString());
 
