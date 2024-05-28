@@ -20,7 +20,7 @@ package com.OCJA.chapter5_loopConstruct;
  *
  */
 
-public class Que17_Imp {
+class Que17_Imp {
     public static void main(String[] args) {
 
 //   do
