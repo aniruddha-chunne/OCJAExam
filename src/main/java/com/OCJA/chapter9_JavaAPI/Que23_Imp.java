@@ -16,11 +16,13 @@ package com.OCJA.chapter9_JavaAPI;
  * C. 2
  * D. None of the above
  *
- * B
+ * 23. D. Line 25 does not compile. On an ArrayList, the method to get
+ * the number of elements is size. The length() method is used for
+ * a String or StringBuilder.
  *
  */
 
-public class Que23 {
+public class Que23_Imp {
     public static void main(String[] args) {
         
     }

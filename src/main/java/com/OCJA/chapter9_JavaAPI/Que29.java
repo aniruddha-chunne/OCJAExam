@@ -12,8 +12,6 @@ package com.OCJA.chapter9_JavaAPI;
  * C. Three
  * D. Four
  *
- * B
- *
  * 29. B. LocalDate only includes the date portion and not the time
  * portion. There is no class named LocalTimeStamp. The other two,
  * LocalDateTime and LocalTime, both include the time elements,

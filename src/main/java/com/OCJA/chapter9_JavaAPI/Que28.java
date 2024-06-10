@@ -16,7 +16,7 @@ package com.OCJA.chapter9_JavaAPI;
  * not required. However, it is treated like a Predicate of type
  * Object if the generic type is missing. Since startsWith() does not
  * exist on Object, the first line does not compile, and Option C is
- * correct
+ * correct.
  *
  */
 
