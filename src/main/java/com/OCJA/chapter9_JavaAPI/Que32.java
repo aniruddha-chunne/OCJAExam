@@ -19,6 +19,7 @@ package com.OCJA.chapter9_JavaAPI;
 
 public class Que32 {
     public static void main(String[] args) {
+
         
     }
 }
