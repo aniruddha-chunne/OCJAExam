@@ -1,8 +1,10 @@
 package com.OCJA.chapter6_MethodAndEncapsulation;
 
 /**
- * - MethodAndEncapsulation
- * - Answer
+ * 128 - MethodAndEncapsulation
+ * 565 - Answer
+ *
+ * C
  */
 
 public class Que15 {
