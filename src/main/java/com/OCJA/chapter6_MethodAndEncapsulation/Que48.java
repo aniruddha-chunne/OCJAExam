@@ -1,8 +1,12 @@
 package com.OCJA.chapter6_MethodAndEncapsulation;
 
 /**
- * - MethodAndEncapsulation
- * - Answer
+ * 142 - MethodAndEncapsulation
+ * 572 - Answer
+ *
+ *
+ *
+ *
  */
 
 public class Que48 {
