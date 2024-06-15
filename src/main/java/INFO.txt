@@ -17,10 +17,10 @@ Chapter 4 - Array
 
 for i in {1..50}; do
     filename="Que${i}.java"
-    echo "package com.OCJA.chapter6_MethodAndEncapsulation;" > "$filename"
+    echo "package com.OCJA.chapter7_Inheritance;" > "$filename"
     echo "" >> "$filename"
     echo "/**" >> "$filename"
-    echo " * - MethodAndEncapsulation" >> "$filename"
+    echo " * - Inheritance" >> "$filename"
     echo " * - Answer" >> "$filename"
     echo " */" >> "$filename"
     echo "" >> "$filename"
